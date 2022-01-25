@@ -1,0 +1,3 @@
+wordnet
+wordnetlemmatizer
+omw-1.4
